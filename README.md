@@ -4,7 +4,11 @@
 
 📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)
 
-I have spent 18+ years working with power utilities. I lead CIS, AMI and billing programs from the first business problem through go-live. Today I build **on-premise Generative AI that lets utility managers talk to their own data**, through my company **AsaanDigital Applications**.
+I bring 18+ years of experience in power utilities, with hands-on leadership across CIS, AMI, billing, and large-scale digital transformation programs—from business requirements to implementation and go-live.
+
+Now I'm turning that domain experience into practical **Generative AI solutions for utilities**.
+
+Through **AsaanDigital Applications**, I build secure, on-premise AI products that allow utility managers to **ask questions, explore insights, and make decisions using their own enterprise data—without sending sensitive data outside their organization.**
 
 ---
 
