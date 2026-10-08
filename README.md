@@ -52,5 +52,5 @@ My Generative AI course notebooks and exercises.
 
 ---
 
-💬 **Open to** Technical Program Manager, Forward Deployed Engineer and Utility Data / GenAI roles. I'm also happy to talk with utilities interested in piloting Utility Data Copilot.
+💬 **Open to** Utility Technology / GenAI / Forward-Deployed / Technical Program Leadership roles. I'm also happy to talk with utilities interested in piloting Utility Data Copilot.
 📫 **Reach me** at akhter.quddus@gmail.com or on [LinkedIn](https://linkedin.com/in/akhterquddus).
