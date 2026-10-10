@@ -2,7 +2,7 @@
 
 **Energy & Utilities Technology · CIS, AMI and Smart Metering · Builder of Utility Data Copilot**
 
-📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)
+📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)  ·  💼 [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563)  ·  🟢 [Fiverr](https://www.fiverr.com/akhterquddusit)
 
 I bring 18+ years of experience in power utilities, with hands-on leadership across CIS, AMI, billing, and large-scale digital transformation programs—from business requirements to implementation and go-live.
 
@@ -57,4 +57,4 @@ My Generative AI course notebooks and exercises.
 ---
 
 💬 **Open to** Utility Technology / GenAI / Forward-Deployed / Technical Program Leadership roles. I'm also happy to talk with utilities interested in piloting Utility Data Copilot.
-📫 **Reach me** at akhter.quddus@gmail.com or on [LinkedIn](https://linkedin.com/in/akhterquddus).
+📫 **Reach me** at akhter.quddus@gmail.com or on [LinkedIn](https://linkedin.com/in/akhterquddus). For freelance work: [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563) · [Fiverr](https://www.fiverr.com/akhterquddusit).
