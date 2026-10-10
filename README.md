@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Akhtar Quddus 👋
 
-**Principal Technical Program Manager · Energy & Utilities · Generative AI**
+**Energy & Utilities Technology · CIS, AMI and Smart Metering · Builder of Utility Data Copilot**
 
 📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)
 
@@ -37,9 +37,9 @@ My Generative AI course notebooks and exercises.
 
 ### 🏭 Utility industry experience
 
-- **IESCO, Pakistan.** I was forward-deployed technical program lead for a Mass Deployment System for **1.2M+ smart meters**, Pakistan's largest AMI rollout and 7x the original scope. The program also covered CIS, billing, workforce management, the customer portal and the mobile app.
+- **IESCO, Pakistan** (with InfoTech Group, a Minsait–Indra partner). I led the smart meter Mass Deployment System (campaign and workforce management). The rollout has passed **1.2 million meters**, about 7x the original scope, and I trained 300+ IESCO staff on the new billing system.
 - **EWA, Bahrain.** I delivered CIS, AMI and billing work at the same time as the IESCO program.
-- **K-Electric.** I delivered 20+ full-lifecycle SAP IS-U projects over 13 years, then worked as Analytics Manager building KPI dashboards for the C-suite.
+- **K-Electric.** I delivered 20+ full-lifecycle SAP IS-U projects over 13 years, then worked as Analytics Manager building KPI dashboards for senior leadership.
 
 ### 🛠️ Tools & skills
 
