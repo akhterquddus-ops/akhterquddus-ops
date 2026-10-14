@@ -24,11 +24,16 @@ Utility Data Copilot is an on-premise Generative AI assistant for electricity ut
 
 `Python` `Streamlit` `Ollama` `SQL Server` `Oracle` `NL-to-SQL` `RAG` `Prompt engineering`
 
+#### 🧪 [text-to-sql-starter](https://github.com/akhterquddus-ops/text-to-sql-starter)
+An open-source, tested reference implementation of the same approach on a demo retail database: semantic layer, SQL safety validator, read-only execution and an evaluation harness. With a small local model (qwen2.5-coder:7b), the semantic layer took accuracy from **4/20 to 16/20**, and the validator blocked all **21/21** SQL attacks. Code, tests and results are public.
+
+`Python` `sqlglot` `Ollama` `Streamlit` `pytest` `GitHub Actions`
+
 #### 📱 Karobar360 · [Google Play](https://play.google.com/store/apps/details?id=com.asaandigital.karobar360)
 Karobar360 is an AI-powered Android business app. I built it end-to-end, from concept and architecture through LLM API integration, AI agents and Play Store release.
 
 #### 🧠 [genai_sql_assistant](https://github.com/akhterquddus-ops/genai_sql_assistant)
-This open-source project lets you ask a SQL Server database questions in plain English. A local LLM writes the SQL, a validator checks it, and Streamlit shows the results and charts. It is built on a demo sales database.
+My earlier, simpler text-to-SQL demo on a SQL Server sales database.
 
 #### 📓 [genai-course](https://github.com/akhterquddus-ops/genai-course)
 My Generative AI course notebooks and exercises.
