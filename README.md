@@ -18,7 +18,7 @@ Through **AsaanDigital Applications**, I build secure, on-premise AI products th
 Utility Data Copilot is an on-premise Generative AI assistant for electricity utilities. You ask a question in plain English about customers, billing, collection, energy loss or AMI meter data. On one screen you get the **answer, the SQL behind it and a chart**.
 
 - **Fully on-premise.** It runs on a local open-source LLM through Ollama, so no customer data leaves the utility's network. It connects to SQL Server and Oracle through read-only accounts.
-- **Semantic layer.** Business views, utility rules and worked examples took accuracy from **12/20** with raw tables to **27/27** on the current synthetic utility evaluation set. That set covers consumers, meters, billing, collection and losses.
+- **Semantic layer.** Business views, utility rules and worked examples let it answer **27 of 27** questions on a synthetic utility evaluation set (23 data questions + 4 that must be refused), with 1 fixed by automatic self-correction. The set covers consumers, meters, billing, collection, losses, smart meters and complaints.
 - **Safety guardrails.** A SQL validator **blocked 20/20 attack attempts** in testing. Failed queries correct themselves, and there is role-based sign-in, session timeout and a full audit log.
 - **Ready for deployment.** It has an Admin console for non-developers, an Implementation Guide, a User Manual and a test-case pack.
 
