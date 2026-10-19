@@ -24,6 +24,17 @@ Utility Data Copilot is an on-premise Generative AI assistant for electricity ut
 
 `Python` `Streamlit` `Ollama` `SQL Server` `Oracle` `NL-to-SQL` `RAG` `Prompt engineering`
 
+#### 📘 [Utility Rules Copilot · CSM Help Desk](https://github.com/akhterquddus-ops/utility-rules-copilot)
+
+A help desk for DISCO staff and consumers that answers questions from the NEPRA Consumer Service Manual in English or Roman Urdu. Every answer shows the exact clause, the deciding sentence highlighted, and a copy-ready reply for WhatsApp or a complaint ticket.
+
+- **Cited answers:** the right clause is found for 33 of 36 test questions (Roman Urdu 16/17), with 0 invented clause references.
+- **Exact calculators:** sanctioning officer and connection time frame, transformer rules, security deposit, house load, straight from the CSM tables with no AI.
+- **Browse and search** all 304 clauses, with a link to the official NEPRA PDF.
+- Runs locally on open-source models (Ollama); companion to Utility Data Copilot.
+
+`Python` `Streamlit` `Ollama` `ChromaDB` `RAG` `Roman Urdu`
+
 #### 🧪 [text-to-sql-starter](https://github.com/akhterquddus-ops/text-to-sql-starter)
 An open-source, tested reference implementation of the same approach on a demo retail database: semantic layer, SQL safety validator, read-only execution and an evaluation harness. With a small local model (qwen2.5-coder:7b), the semantic layer took accuracy from **4/20 to 16/20**, and the validator blocked all **21/21** SQL attacks. Code, tests and results are public.
 
