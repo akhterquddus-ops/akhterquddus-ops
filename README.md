@@ -2,7 +2,7 @@
 
 **Energy & Utilities Technology · CIS, AMI and Smart Metering · Builder of Utility Data Copilot**
 
-📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)  ·  💼 [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563)  ·  🟢 [Fiverr](https://www.fiverr.com/akhterquddusit)
+📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📊 [Kaggle](https://www.kaggle.com/muhammadakhtarquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)  ·  💼 [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563)  ·  🟢 [Fiverr](https://www.fiverr.com/akhterquddusit)
 
 I bring 18+ years of experience in power utilities, with hands-on leadership across CIS, AMI, billing, and large-scale digital transformation programs—from business requirements to implementation and go-live.
 
@@ -51,6 +51,24 @@ My Generative AI course notebooks and exercises.
 
 ---
 
+### 🔬 Research & ML practice
+
+#### 🗄️ [PLSQL-Fix](https://github.com/akhterquddus-ops/plsql-fix) · Kaggle: Google – The Gemma 4 Developer Agent Paper Track
+A benchmark of 30 PL/SQL bug-fix tasks that tests whether **Oracle's own dependency graph** helps a small local model fix bugs that sit outside the code a failing test calls. Each task has utPLSQL tests, a reference fix and a ground-truth buggy object.
+
+- **Context matters:** with Gemma 4 E4B, right fixes went from **0% with no context to 80%** with hybrid search plus the dependency graph (100% with the 26B model).
+- **Cheaper retrieval:** the `USER_DEPENDENCIES` graph alone matched hybrid search with **about 28% fewer prompt tokens** and no embedding model.
+- **Measured properly:** 3 seeds per task, exact McNemar tests, and every table can be rebuilt from the run logs.
+
+`Python` `Oracle PL/SQL` `utPLSQL` `Ollama` `Gemma 4` `bge-m3` `BM25` `Docker`
+
+#### 🚢 [Titanic ML](https://github.com/akhterquddus-ops/titanic-ml) · Kaggle score 0.80143
+An end-to-end machine-learning workflow: baseline, exploration, feature engineering, cross-validation, overfitting diagnosis and error analysis. A family/ticket **group-survival** feature lifted the score past 0.80. The README keeps a full experiment log, including the experiments that did not work.
+
+`Python` `pandas` `scikit-learn` `Jupyter`
+
+---
+
 ### 🏭 Utility industry experience
 
 - **IESCO, Pakistan** (with InfoTech Group, a Minsait–Indra partner). I led the smart meter Mass Deployment System (campaign and workforce management). The rollout has passed **1.2 million meters**, about 7x the original scope, and I trained 300+ IESCO staff on the new billing system.
@@ -61,6 +79,7 @@ My Generative AI course notebooks and exercises.
 
 **Generative AI:** Local LLMs (Ollama) · Natural-language-to-SQL · Semantic layer design · RAG · AI evaluation · AI safety guardrails
 **Utility platforms:** SAP IS-U · Onesait Utilities (CIS / Workforce / Portal / Mobile) · SAP Fiori
+**Machine learning:** scikit-learn · Feature engineering · Cross-validation · Error analysis · Kaggle
 **Data:** Microsoft SQL Server (T-SQL) · Oracle PL/SQL · ABAP · Data modeling · Data migration · BI / KPI dashboards
 **Engineering:** Python · Streamlit · REST / OData APIs · GitHub · VS Code · GitHub Copilot · Claude · ChatGPT
 **Governance:** Read-only access · Role-based access control · Audit logging · On-premise data privacy
@@ -73,4 +92,4 @@ My Generative AI course notebooks and exercises.
 ---
 
 💬 **Open to** Utility Technology / GenAI / Forward-Deployed / Technical Program Leadership roles. I'm also happy to talk with utilities interested in piloting Utility Data Copilot.
-📫 **Reach me** at akhter.quddus@gmail.com or on [LinkedIn](https://linkedin.com/in/akhterquddus). For freelance work: [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563) · [Fiverr](https://www.fiverr.com/akhterquddusit).
+📫 **Reach me** at akhter.quddus@gmail.com or on [LinkedIn](https://linkedin.com/in/akhterquddus) · [Kaggle](https://www.kaggle.com/muhammadakhtarquddus). For freelance work: [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563) · [Fiverr](https://www.fiverr.com/akhterquddusit).
