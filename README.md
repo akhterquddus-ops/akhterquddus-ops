@@ -53,15 +53,6 @@ My Generative AI course notebooks and exercises.
 
 ### 🔬 Research & ML practice
 
-#### 🗄️ [PLSQL-Fix](https://github.com/akhterquddus-ops/plsql-fix) · Kaggle: Google – The Gemma 4 Developer Agent Paper Track
-A benchmark of 30 PL/SQL bug-fix tasks that tests whether **Oracle's own dependency graph** helps a small local model fix bugs that sit outside the code a failing test calls. Each task has utPLSQL tests, a reference fix and a ground-truth buggy object.
-
-- **Context matters:** with Gemma 4 E4B, right fixes went from **0% with no context to 80%** with hybrid search plus the dependency graph (100% with the 26B model).
-- **Cheaper retrieval:** the `USER_DEPENDENCIES` graph alone matched hybrid search with **about 28% fewer prompt tokens** and no embedding model.
-- **Measured properly:** 3 seeds per task, exact McNemar tests, and every table can be rebuilt from the run logs.
-
-`Python` `Oracle PL/SQL` `utPLSQL` `Ollama` `Gemma 4` `bge-m3` `BM25` `Docker`
-
 #### 🚢 [Titanic ML](https://github.com/akhterquddus-ops/titanic-ml) · Kaggle score 0.80143
 An end-to-end machine-learning workflow: baseline, exploration, feature engineering, cross-validation, overfitting diagnosis and error analysis. A family/ticket **group-survival** feature lifted the score past 0.80. The README keeps a full experiment log, including the experiments that did not work.
 
