@@ -1,10 +1,10 @@
 # Hi, I'm Muhammad Akhtar Quddus 👋
 
-**Energy & Utilities Technology · CIS, AMI and Smart Metering · Builder of Utility Data Copilot**
+**Utility CIS, AMI & Smart Metering Consultant · Builder of AI tools for utility data**
 
-📍 Islamabad, Pakistan  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📊 [Kaggle](https://www.kaggle.com/muhammadakhtarquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)  ·  💼 [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563)  ·  🟢 [Fiverr](https://www.fiverr.com/akhterquddusit)
+📍 Islamabad, Pakistan  ·  🌐 [Portfolio](https://akhterquddus-ops.github.io)  ·  🔗 [LinkedIn](https://linkedin.com/in/akhterquddus)  ·  📊 [Kaggle](https://www.kaggle.com/muhammadakhtarquddus)  ·  📄 [Download my CV](./Muhammad_Akhtar_Quddus_CV.pdf)  ·  💼 [Upwork](https://www.upwork.com/freelancers/~0181df082417b33563)  ·  🟢 [Fiverr](https://www.fiverr.com/akhterquddusit)
 
-I bring 18+ years of experience in power utilities, with hands-on leadership across CIS, AMI, billing, and large-scale digital transformation programs—from business requirements to implementation and go-live.
+I bring 22 years in IT, including 17+ years in power utilities, with hands-on leadership across CIS, AMI, billing, and large-scale digital transformation programs—from business requirements to implementation and go-live.
 
 Now I'm turning that domain experience into practical **Generative AI solutions for utilities**.
 
